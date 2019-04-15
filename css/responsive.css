@@ -1,0 +1,358 @@
+/* lg */
+
+@media(max-width: 1199px){
+.carousel-caption h5 {
+    font-size: 60px;
+}
+.carousel-caption p{
+    font-size: 16px;
+    margin-bottom: 26px;
+}
+.btn-custom {
+    padding: 18px 26px;
+    margin-left: 16px;
+}
+.follow {
+    margin-top: 22px;
+}
+.follow-me {
+    top: 185px;
+}
+.carousel-control-next {
+    top: 215px;
+}
+.carousel-control-prev {
+    top: 240px;
+}
+.about-me-section {
+    margin-top: 150px;
+}
+.about-me-section .heading h1::after {
+    font-size: 100px;
+}
+.heading h1 {
+    font-size: 60px;
+    margin-bottom: 28px;
+}
+.heading p {
+    font-size: 15px;
+}
+.skill-section {
+    margin-top: 100px;
+}
+.heading2 h5 {
+    font-size: 28px;
+}
+.heading3 h5 {
+    font-size: 28px;
+}
+.skill-section .heading h1::after{
+    font-size: 100px;
+}
+.image-area1{
+	width: 90%;
+}
+.image-area1:before{
+    width: 90%;
+}
+.image-area1:hover .logo{
+	transform: translate(-60%, -50%);
+}
+.image-area2{
+	width: 90%;
+}
+.image-area2:before {
+    width: 90%;
+}
+.image-area2:hover .logo2{
+	transform: translate(-60%, -50%);
+}
+.image-area3{
+	width: 90%;
+}
+.image-area3:before {
+    width: 90%;
+}
+.image-area3:hover .logo2{
+	transform: translate(-60%, -50%);
+}
+.resume-section {
+    margin-top: 100px;
+}
+.resume-section .heading h1::after{
+    font-size: 100px;
+}
+.work-section{
+	margin-top: 100px;
+}
+.work-section .heading h1::after{
+    font-size: 100px;
+}
+.contact{
+	margin-top: 80px;
+}
+.get-in-touch{
+	margin-top: 100px;
+}
+.get-in-touch .heading h1::after{
+    font-size: 100px;
+}
+.edu {
+    margin-top: 100px;
+}
+.project h3 {
+    font-size: 40px;
+}
+.btn-custom1 {
+    font-size: 22px;
+}
+.box-area{
+    min-width: 270px;
+}
+.box-area a img{
+    width: 100%;
+}
+}
+
+
+
+/* md */
+
+@media(max-width: 991px){
+.fixed-top {
+    background-color: #000000ba;
+}
+.navbar-nav a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.carousel-caption h5 {
+    font-size: 50px;
+}
+.carousel-caption p{
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+.btn-custom {
+    padding: 16px 24px;
+    margin-left: 14px;
+}
+.carousel-control-next {
+    top: 170px;
+}
+.carousel-control-prev {
+    top: 195px;
+}
+.follow-me {
+    top: 140px;
+	right: 55px;
+}
+.about-me-section {
+    margin-top: 80px;
+}
+.heading h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.heading p {
+    font-size: 14px;
+    line-height: 14px;
+}
+.about-me-section .heading h1::after {
+    font-size: 70px;
+}
+.skill-section {
+    margin-top: 80px;
+}
+.heading2 h5 {
+    font-size: 24px;
+}
+.heading3 h5 {
+    font-size: 24px;
+}
+.skill-section .heading h1::after{
+    font-size: 70px;
+}
+
+.work-section .heading h1::after{
+    font-size: 70px;
+}
+.resume-section {
+    margin-top: 80px;
+}
+.resume-section .heading h1::after{
+    font-size: 70px;
+}
+.contact{
+	margin-top: 70px;
+}
+.get-in-touch{
+	margin-top: 80px;
+}
+.get-in-touch .heading h1::after{
+    font-size: 70px;
+}
+.edu {
+    margin-top: 80px;
+}
+.project h3 {
+    font-size: 30px;
+    margin-top: 16px;
+}
+.btn-custom1 {
+    font-size: 14px;
+    margin-top: 28px;
+}
+}
+
+
+
+/* sm */
+
+@media(max-width: 767px){
+.navbar-nav a {
+    margin-top: 0px;
+    margin-bottom: 0px;
+	text-align: center;
+}
+.carousel-caption h5 {
+    font-size: 36px;
+}
+.carousel-caption p{
+    display: none;
+}
+.btn-custom {
+    padding: 10px 16px;
+    margin-left: 10px;
+	font-size: 12px;
+}
+.follow-me {
+    top: 224px;
+    right: 235px;
+}
+.social ul li{
+	display: inline-block;
+}
+.carousel-control-next {
+    top: 150px;
+}
+.carousel-control-prev {
+    top: 175px;
+}
+.heading h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.heading p {
+    margin-top: 35px;
+	text-align: justify;
+}
+.about-me-section .heading h1::after {
+    font-size: 60px;
+}
+.skill-section .heading h1::after{
+    font-size: 60px;
+}
+
+.work-section .heading h1::after{
+    font-size: 60px;
+}
+.resume-section .heading h1::after{
+    font-size: 60px;
+}
+.get-in-touch .heading h1::after{
+    font-size: 60px;
+}
+.edu h3 {
+    text-align: center;
+}
+.btn-isotipe {
+    font-size: 18px;
+    margin-top: 50px;
+}
+.project h3 {
+    font-size: 30px;
+	text-align: center;
+}
+.btn-custom2 {
+    margin-bottom: 55px;
+}
+}
+
+
+
+/* centauri-a */
+
+@media(max-width: 650px){
+.follow-me {
+    display: none;
+}
+.carousel-caption h5 {
+    font-size: 24px;
+}
+.btn-custom {
+    padding: 6px 10px;
+    margin-left: 6px;
+	font-size: 10px;
+}
+.carousel-control-next {
+    top: 125px;
+}
+.carousel-control-prev {
+    top: 150px;
+}
+.heading2 h5 {
+    font-size: 20px;
+}
+.heading3 h5 {
+    font-size: 20px;
+}
+}
+
+
+
+/* ss*/
+
+@media(max-width: 575px){
+.carousel-control-next {
+    top: 100px;
+}
+.carousel-control-prev {
+    top: 125px;
+}
+.carousel-caption {
+    min-width: 400px;
+}
+}
+
+
+
+/* proxima-a */
+
+@media(max-width: 460px){}
+
+
+
+/* proxima-b */
+
+@media(max-width: 360px){}
+
+
+
+/* proxima-c */
+
+@media(max-width: 320px){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
